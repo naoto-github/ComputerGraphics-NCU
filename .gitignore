@@ -1,4 +1,7 @@
 annotations/
+supervise/dataset/
+supervise/kadai/
+supervise/samples/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
