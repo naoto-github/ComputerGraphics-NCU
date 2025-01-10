@@ -1,7 +1,4 @@
-annotations/
-supervise/dataset/
-supervise/kadai/
-supervise/samples/
+person_detection/samples/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
