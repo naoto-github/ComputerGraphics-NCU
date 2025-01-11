@@ -1,4 +1,5 @@
 person_detection/samples/
+person_detection/yolo/yolov4-p6.weights
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
